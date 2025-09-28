@@ -1,0 +1,16 @@
+Input: "Test8RE" -> Contains digit in last 3 characters? true
+Input: "abc123" -> Contains digit in last 3 characters? true
+Input: "Welcome" -> Contains digit in last 3 characters? false
+Input: "hiHello9" -> Contains digit in last 3 characters? true
+Input: "xyz123hi" -> Contains digit in last 3 characters? true
+Input: "9" -> Contains digit in last 3 characters? true
+Input: "    " -> Contains digit in last 3 characters? false
+Input: "" -> Contains digit in last 3 characters? false
+Input: null -> Contains digit in last 3 characters? false
+Input: "a2 " -> Contains digit in last 3 characters? true
+Input: "  5ab" -> Contains digit in last 3 characters? true
+Input: "12 " -> Contains digit in last 3 characters? true
+Input: "abc1def" -> Contains digit in last 3 characters? false
+Input: "ab1c2" -> Contains digit in last 3 characters? true
+Input: "123" -> Contains digit in last 3 characters? true
+Input: "a1b" -> Contains digit in last 3 characters? true
